@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SanguLee's Blog"
+title                    : SanguLee's Blog
 title_separator          : "-"
 name                     : "Sangu Lee"
 description              : "An amazing website."
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sangu Lee"
+  name             : Sangu Lee
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "뭘 좋아할지 몰라서 아무것도 안 준비해버린 블로그"
+  bio              : 뭘 좋아할지 몰라서 아무것도 안 준비해버린 블로그
   #location         : "Somewhere"
   email            : 
   links:
